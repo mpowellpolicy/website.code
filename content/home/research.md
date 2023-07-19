@@ -26,7 +26,7 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Authement, Jacob, Michelangelo Landgrave, and Nicholas Weller. _Forthcoming_. <a href="https://www.jacobauthement.com/publication/AuthementLandgraveWeller2023">"Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"</a> _Journal of Behavioral Public Administration_. </p>
+<p>Authement, Jacob, Michelangelo Landgrave, and Nicholas Weller. _Forthcoming_. <a href="https://www.jacobauthement.com/publication/AuthementLandgraveWeller2023">"Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"</a> *Journal of Behavioral Public Administration*. </p>
 
 </div>
 
