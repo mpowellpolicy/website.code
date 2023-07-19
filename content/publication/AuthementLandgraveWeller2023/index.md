@@ -1,11 +1,13 @@
 ---
-title: "Comparing and Contrasting the U.S. and Missouri Constitutions"
+title: "Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"
 authors:
-- Robert Anstett
 - Jacob Authement
+- Michelangelo Landgrave
+- Nicholas Weller
 author_notes:
 - "Political Science, University of Missouri"
 - "Political Science, University of Missouri"
+- "Political Science, University of California, Riverside"
 # date: "2021-01-25T00:00:00Z"
 # doi: "10.1017/bap.2020.17"
 
@@ -16,26 +18,27 @@ publishDate: "2022-01-25T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Readings in American Politics*"
-# publication_short: "*B&P*"
+publication: "*Journal of Behavioral Public Administration*"
+publication_short: "*JBPA*"
 
-# abstract: Current explanations of demand for anti-dumping protections focus on the role of the business cycle, and fluctuations in real exchange rates. However, empirical evidence supporting these explanations is based primarily on the experience of industrialized countries. Here, we examine anti-dumping petitions in a broader sample of thirty-four industrialized and middle income countries from 1978–2015. We also propose a new determinant of demand for anti-dumping petitions—changes in the pattern of industrial production between developed and developing economies over this period have contributed to deindustrialization in advanced economies and premature industrialization some developing countries. These changes threaten established industries and motivate them to demand protection.
+abstract: Discrimination by political elites has been identified in a variety of earlier studies. However, research about discrimination by street-level bureaucrats has more mixed findings. To contribute to knowledge about bureaucratic discrimination we conducted a study that followed up on a prior audit of public housing agencies by Einstein and Glick (2017) and made two significant improvements: we pre-test the names used to ensure that they primarily manipulate perceptions of ethnicity, and we include approximately three times more public housing agencies. Our larger sample size produces more precise estimates and allows us to better explore potential moderation such as racial resentment, professionalization, and population size. We fail to find statistically significant differences in how white and Hispanic aliases are treated across three measures (any reply, friendly replies, and quick replies). We also do not find any meaningful variation across racial resentment or professionalization but find some evidence of moderation by city population size.
 
 # Summary. An optional shortened abstract.
 # summary:
 
 tags:
-- state politics
-- American politics
-- American institutions
-- political institutions
+- Discrimination
+- Latino Politics
+- Housing
+- Audit Study
+- Replication
 featured: false
 
 # links:
-# - name: "Readings in American Politics"
+# - name: "Journal of Behavioral Public Administration"
 #   url: "
 url_pdf: ''
 url_code: ''
