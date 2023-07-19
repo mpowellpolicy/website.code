@@ -1,4 +1,4 @@
----
+----
 title: "Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"
 authors:
 - Jacob Authement
