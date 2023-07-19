@@ -8,8 +8,8 @@ author_notes:
 - "Truman School of Government and Public Affairs, University of Missouri"
 - "Truman School of Government and Public Affairs, University of Missouri"
 - "Political Science, Univeristy of California, Riverside"
-date: "2021-01-25T00:00:00Z"
-doi: "10.1017/bap.2020.17"
+# date: "2021-01-25T00:00:00Z"
+# doi: "10.1017/bap.2020.17"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-25T00:00:00Z"
