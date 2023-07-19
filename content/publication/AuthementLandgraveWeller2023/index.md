@@ -5,14 +5,14 @@ authors:
 - Michelangelo Landgrave
 - Nicholas Weller
 author_notes:
-- "Political Science, University of Missouri"
-- "Political Science, University of Missouri"
-- "Political Science, University of California, Riverside"
-# date: "2021-01-25T00:00:00Z"
-# doi: "10.1017/bap.2020.17"
+- "Truman School of Government and Public Affairs, University of Missouri"
+- "Truman School of Government and Public Affairs, University of Missouri"
+- "Political Science, Univeristy of California, Riverside"
+date: "2021-01-25T00:00:00Z"
+doi: "10.1017/bap.2020.17"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-25T00:00:00Z"
+publishDate: "2021-01-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,11 +22,12 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Behavioral Public Administration*"
+publication_short: "*JBPA*"
 
 abstract: Discrimination by political elites has been identified in a variety of earlier studies. However, research about discrimination by street-level bureaucrats has more mixed findings. To contribute to knowledge about bureaucratic discrimination we conducted a study that followed up on a prior audit of public housing agencies by Einstein and Glick (2017) and made two significant improvements: we pre-test the names used to ensure that they primarily manipulate perceptions of ethnicity, and we include approximately three times more public housing agencies. Our larger sample size produces more precise estimates and allows us to better explore potential moderation such as racial resentment, professionalization, and population size. We fail to find statistically significant differences in how white and Hispanic aliases are treated across three measures (any reply, friendly replies, and quick replies). We also do not find any meaningful variation across racial resentment or professionalization but find some evidence of moderation by city population size.
 
 # Summary. An optional shortened abstract.
-# summary:
+summary:
 
 tags:
 - Discrimination
@@ -37,8 +38,8 @@ tags:
 featured: false
 
 # links:
-# - name: "Readings in American Politics"
-#   url: "
+# - name: "Deindustrialization and the Demand for Protection"
+#   url: "https://www.cambridge.org/core/journals/business-and-politics/article/deindustrialization-and-the-demand-for-protection/E526153245E859666F0DA5AB74E057EA"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
