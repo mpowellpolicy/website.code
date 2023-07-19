@@ -4,8 +4,8 @@ authors:
 - Robert Anstett
 - Jacob Authement
 author_notes:
-- "Political Science, University of Missouri"
-- "Political Science, University of Missouri"
+- "Truman School of Government and Public Affairs, University of Missouri"
+- "Truman School of Government and Public Affairs, University of Missouri"
 # date: "2021-01-25T00:00:00Z"
 # doi: "10.1017/bap.2020.17"
 
@@ -19,7 +19,7 @@ publishDate: "2022-01-25T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Readings in American Politics*"
+publication: "Readings in American Politics"
 # publication_short: "*B&P*"
 
 # abstract: Current explanations of demand for anti-dumping protections focus on the role of the business cycle, and fluctuations in real exchange rates. However, empirical evidence supporting these explanations is based primarily on the experience of industrialized countries. Here, we examine anti-dumping petitions in a broader sample of thirty-four industrialized and middle income countries from 1978–2015. We also propose a new determinant of demand for anti-dumping petitions—changes in the pattern of industrial production between developed and developing economies over this period have contributed to deindustrialization in advanced economies and premature industrialization some developing countries. These changes threaten established industries and motivate them to demand protection.
