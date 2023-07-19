@@ -26,7 +26,7 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Authement, Jacob, Michelangelo Landgrave, and Nicholas Weller. <i>Forthcoming</i>. <a href="https://www.jacobauthement.com/publication/AuthementLandgraveWeller2023">"Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"</a> <i>Journal of Behavioral Public Administration</i>. </p>
+<p>Authement, Jacob, <a href="https://www.michelangelo.mx">Michelangelo Landgrave</a>, and <a href="https://sites.google.com/view/nicholas-weller/">Nicholas Weller</a>. <i>Forthcoming</i>. <a href="https://www.jacobauthement.com/publication/AuthementLandgraveWeller2023">"Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"</a> <i>Journal of Behavioral Public Administration</i>. </p>
 
 </div>
 
@@ -34,8 +34,8 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022a">Comparing and Contrasting the U.S. and Missouri Constitutions</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
+<p><a href="https://robert-anstett.com">Anstett, Robert</a>, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022a">Comparing and Contrasting the U.S. and Missouri Constitutions</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
 
-<p>Anstett, Robert, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022b">Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
+<p><a href="https://robert-anstett.com">Anstett, Robert</a>, & Authement, Jacob. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022b">Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
 
 </div>
