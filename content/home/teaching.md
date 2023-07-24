@@ -21,9 +21,9 @@ weight = 57
 _Future Courses (tentative)_
 + American National Government, POLSC 1100, Spring 2024
 + Politics of the American South, POLSC 4170, Fall 2023
-+ Politics of the American South, POLSC 4170, Summer 2023 (asynchronously)
 
 _Instructor_
++ Politics of the American South, POLSC 4170, Summer 2023 (asynchronously)
 + Program Assessment & Improvement, PUB_AF 4420, Spring 2023
 + Politics of the American South, POLSC 4170, Fall 2022
 
