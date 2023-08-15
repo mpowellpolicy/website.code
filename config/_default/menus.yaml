@@ -13,7 +13,7 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 30
-  - name: Contact Me
+  - name: Contact Me test
     url: '#contact'
     weight: 60
 
