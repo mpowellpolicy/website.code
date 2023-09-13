@@ -8,11 +8,11 @@ author_notes:
 - "Truman School of Government and Public Affairs, University of Missouri"
 - "Truman School of Government and Public Affairs, University of Missouri"
 - "Political Science, Univeristy of California, Riverside"
-# date: "2023-08-25T00:00:00Z"
-# doi: "10.1017/bap.2020.17"
+date: "2023-08-28T00:00:00Z"
+doi: "[10.30636/jbpa.61.325](https://journal-bpa.org/index.php/jbpa/article/view/325)"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-08-25T00:00:00Z"
+publishDate: "2023-05-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
