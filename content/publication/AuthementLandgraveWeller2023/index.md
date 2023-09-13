@@ -8,11 +8,11 @@ author_notes:
 - "Truman School of Government and Public Affairs, University of Missouri"
 - "Truman School of Government and Public Affairs, University of Missouri"
 - "Political Science, Univeristy of California, Riverside"
-# date: "2021-01-25T00:00:00Z"
+# date: "2023-08-25T00:00:00Z"
 # doi: "10.1017/bap.2020.17"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-25T00:00:00Z"
+publishDate: "2023-08-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -38,8 +38,8 @@ tags:
 featured: false
 
 # links:
-# - name: "Deindustrialization and the Demand for Protection"
-#   url: "https://www.cambridge.org/core/journals/business-and-politics/article/deindustrialization-and-the-demand-for-protection/E526153245E859666F0DA5AB74E057EA"
+ - name: "Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"
+   url: "[https://www.cambridge.org/core/journals/business-and-politics/article/deindustrialization-and-the-demand-for-protection/E526153245E859666F0DA5AB74E057EA](https://doi.org/10.30636/jbpa.61.325)"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
