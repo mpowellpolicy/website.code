@@ -38,7 +38,7 @@ tags:
 featured: false
 
 # links:
- - name: "Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"
+ # - name: "Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"
    url: "[https://www.cambridge.org/core/journals/business-and-politics/article/deindustrialization-and-the-demand-for-protection/E526153245E859666F0DA5AB74E057EA](https://doi.org/10.30636/jbpa.61.325)"
 url_pdf: ''
 url_code: ''
