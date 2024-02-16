@@ -9,7 +9,7 @@ author_notes:
 - "Truman School of Government and Public Affairs, University of Missouri"
 - "Political Science, Univeristy of California, Riverside"
 date: "2023-08-28T00:00:00Z"
-doi: "[10.30636/jbpa.61.325](https://journal-bpa.org/index.php/jbpa/article/view/325)"
+# doi: "[10.30636/jbpa.61.325](https://journal-bpa.org/index.php/jbpa/article/view/325)"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-05T00:00:00Z"
@@ -38,8 +38,8 @@ tags:
 featured: false
 
 # links:
-# - name: "Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"
-# url: "[https://www.cambridge.org/core/journals/business-and-politics/article/deindustrialization-and-the-demand-for-protection/E526153245E859666F0DA5AB74E057EA](https://doi.org/10.30636/jbpa.61.325)"
+ - name: "Do Public Housing Agencies Discriminate Against Latinos? A Large-Scale Replication Study to Assess Discrimination"
+ url: "[https://www.cambridge.org/core/journals/business-and-politics/article/deindustrialization-and-the-demand-for-protection/E526153245E859666F0DA5AB74E057EA](https://doi.org/10.30636/jbpa.61.325)"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
