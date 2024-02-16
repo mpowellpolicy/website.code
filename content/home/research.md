@@ -28,9 +28,15 @@ weight = 20
 
 <p>Powell, Michael A., Sarah Brown, Robin Rotman, Sonja Wilhelm Stanis. 2024. “Supplement to Easements, Not Replacement, is the Appropriate Role of Lease Agreements.” <i>Wildlife Society Bulletin</i>, 6(1). <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1508</a> </p>
 
-<p>Brown, Sarah, Robin Rotman, Michael A. Powell, Sonja Wilhelm Stanis. 2023. “Environmental Law Update: Dep’t of Env. Serv., City and Cty. of Honolulu v. Land Use Commission, State of Hawai’i.” <i>Wildlife Society Bulletin</i>, 6(1). <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1415</a> </p>
+<p>Brown, Sarah, Robin Rotman, Michael A. Powell, Sonja Wilhelm Stanis. 2023. “Conservation Easements: A Tool for Preserving Wildlife Habitat on Private Lands.” <i>Wildlife Society Bulletin</i>, 6(1). <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1415</a> </p>
 
-<p>Powell, Michael A. 2012. “Conservation Easements: A Tool for Preserving Wildlife Habitat on Private Lands.” <i>Journal of Environmental and Sustainability Law</i>, 19(268). </p>
+<p>Powell, Michael A. 2012. “Environmental Law Update: Dep’t of Env. Serv., City and Cty. of Honolulu v. Land Use Commission, State of Hawai’i.” <i>Journal of Environmental and Sustainability Law</i>, 19(268). </p>
+
+<p>Powell, Michael A. 2012. “Environmental Law Update: N. Carolina Wildlife Fed. V. N. Carolina Dep’t of Transp.” <i>Journal of Environmental and Sustainability Law</i>, 19(270). </p>
+
+<p>Powell, Michael A. 2011. “Environmental Law Update: Florida Wildlife Federation, Inc. v. South Florida Water Mgmt. Dist.” <i>Journal of Environmental and Sustainability Law</i>, 19(270). </p>
+
+<p>Marcum, Martha A., Michael A. Powell, A. J. Muensch, Helen F. Arnold, and Robert Powell. 2008 “Social behaviour of the dwarf gecko <i>Sphaerodactylus vincenti vincenti</i> on St. Vincent, Lesser Antilles.” <i>Salamandra</i>, 44:15-22. </p>
 
 </div>
 
