@@ -48,7 +48,7 @@ weight = 20
 
 <p>Powell, Michael A. 2017. “Conservation Represents the Best Tool for Rebuilding Rural Trust in Progressive Causes.” American Constitution Society Blog, August 10, 2017. <i>No longer online.</i> </p>
 
-<p>Powell, Michael A. 2012. “Walking the Tightrope: Balancing Conservation, Local Growth, and the Uncertainty of Rural Development.” Online at BePress. </p>
+<p>Powell, Michael A. 2012. “Walking the Tightrope: Balancing Conservation, Local Growth, and the Uncertainty of Rural Development.” <a href="https://works.bepress.com/michael_powell/1/">Online at BePress.</a> </p>
 
 <p>Powell, Michael A. and Robert Powell. 2011. “Aquatic Turtles Feasting on Periodical Cicadas.” <i>Missouri Herpetological Association Newsletter</i>, 24:21. </p>
 
