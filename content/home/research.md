@@ -56,7 +56,7 @@ weight = 20
 
 <p>Powell, Michael A. 2009. “Characteristics of Healthy Communities: A Literature Review.” White Paper, Rural Policy Research Institute, University of Missouri. </p>
 
-<p>Konisky, David and Michael A. Powell. 2009. “Public Attitudes on State Election Administration, Goals, and Reforms.” Report 05–2009. Policy Note, Institute of Public Policy, University of Missouri. <a href="[https://www.researchgate.net/publication/279636775_Public_Attitudes_on_State_Election_Administration_Goals_and_Reforms]">Online at ResearchGate.</a> </p>
+<p>Konisky, David and Michael A. Powell. 2009. “Public Attitudes on State Election Administration, Goals, and Reforms.” Report 05–2009. Policy Note, Institute of Public Policy, University of Missouri. <a href="https://www.researchgate.net/publication/279636775_Public_Attitudes_on_State_Election_Administration_Goals_and_Reforms">Online at ResearchGate.</a> </p>
 
 <p>Powell, Michael A., Robert Powell, and Robert W. Henderson. 2006. “<i>Anolis sabanus</i>.” <i>Catalogue of American Amphibians and Reptiles</i>, (815): 1–5.</p>
 
