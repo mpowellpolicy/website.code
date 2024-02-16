@@ -34,7 +34,7 @@ weight = 20
 
 <p>Powell, Michael A. 2012. “Environmental Law Update: N. Carolina Wildlife Fed. V. N. Carolina Dep’t of Transp.” <i>Journal of Environmental and Sustainability Law</i>, 19(270). </p>
 
-<p>Powell, Michael A. 2011. “Environmental Law Update: Florida Wildlife Federation, Inc. v. South Florida Water Mgmt. Dist.” <i>Journal of Environmental and Sustainability Law</i>, 19(270). </p>
+<p>Powell, Michael A. 2011. “Environmental Law Update: Florida Wildlife Federation, Inc. v. South Florida Water Mgmt. Dist.” <i>Journal of Environmental and Sustainability Law</i>, 18(606). </p>
 
 <p>Marcum, Martha A., Michael A. Powell, A. J. Muensch, Helen F. Arnold, and Robert Powell. 2008 “Social behaviour of the dwarf gecko <i>Sphaerodactylus vincenti vincenti</i> on St. Vincent, Lesser Antilles.” <i>Salamandra</i>, 44:15-22. </p>
 
