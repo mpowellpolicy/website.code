@@ -49,9 +49,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MPowellPolicy
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+ - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+   icon_pack: fas
+   link: https://scholar.google.com/citations?user=Wl-gE8MAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/MPowellPolicy
@@ -73,10 +73,10 @@ social:
 highlight_name: false
 ---
 
-_Hi! First things first, it's pronounced "Oh-Tee-Mon." Please, just call me Jacob._
+I am a PhD student in Political Science at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri.  I currently possess a B.A. in Political Science, with a minor in biology from Truman State University, as well as a Master’s in Public Affairs and a Juris Doctor from the University of Missouri.  Between my graduation from law school and my return to academia, I was a nonprofit executive and attorney working in the conservation land trust sector for nearly a decade, protecting vital natural resources using conservation easements and fee title acquisition, and serving as a leader for the land trust community at both the state and national levels.
 
-I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. Before moving to Missouri, I recieved my BA in Political Science from the [University of Louisiana at Lafayette](https://politicalscience.louisiana.edu) _(Geaux Cajuns!)_. Professionally, my research interests include American state politics, American political institutions, interest groups, and legislative expertise. My dissertation research focuses on the procedural expertise state legislatures, committees, and legislators accrue through time and how (or if) they replace this expertise in the face of shorter time horizons.
+After nearly a decade as a conservation professional, I returned to the University of Missouri to pursue studies in comparative environmental policy at the Truman School of Government and Public Affairs.  I am interested in the intersections between humans, ecology, and land use, as well as comparative political study more broadly, with a focus on democracy and the unintended consequences of policy action.
 
-You can download a copy of my Curriculum Vitae {{< staticref "Authement_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+You can download a copy of my Curriculum Vitae {{< staticref "Powell_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-As a bit of non-academic background, I was born and raised in the small town of Chauvin, located on the bayous of South Louisiana. I have several years of experience working in both state and local politics in Louisiana (through the Louisiana State Legislature and Lafayette Consolidated Government, respectively). If I am not researching state legislatures, you can usually find me waxing nostalgic about Louisiana cuisine, rooting for the STL Cardinals, or playing a video game... or probably a combination of all three.
+I was born and raised in the state of Missouri, but have lived in Vermont and Ohio, and have close ties to Germany through my father’s family.  I am fluent in English and conversational in German.  When not engaged in academic pursuits, I can often be found enjoying punk and folk music from across the world, reading voraciously, and spending time outdoors with my wife and dog.
