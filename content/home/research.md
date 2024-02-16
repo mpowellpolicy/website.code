@@ -22,16 +22,16 @@ weight = 20
 
 
 +++
-<h2>Peer-Reviewed Journal Articles</h2>
+<h2>Academic Publications</h2>
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
 <p>Powell, Michael A., Sarah Brown, Robin Rotman, Sonja Wilhelm Stanis. 2024. “Supplement
-to Easements, Not Replacement, is the Appropriate Role of Lease Agreements.” <i>Wildlife Society Bulletin, 6(1)</i>. <a href="https://doi.org/10.1002/wsb.1508">[](https://doi.org/10.1002/wsb.1508)</a> </p>
+to Easements, Not Replacement, is the Appropriate Role of Lease Agreements.” <i>Wildlife Society Bulletin, 6(1)</i>. <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1508</a> </p>
 
 </div>
 
-<h2>Editor-Reviewed Book Chapters</h2>
+<h2>Other Publications</h2>
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
