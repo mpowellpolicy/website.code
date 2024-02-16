@@ -36,7 +36,7 @@ weight = 20
 
 <p>Powell, Michael A. 2011. “Environmental Law Update: Florida Wildlife Federation, Inc. v. South Florida Water Mgmt. Dist.” <i>Journal of Environmental and Sustainability Law</i>, 18(606). </p>
 
-<p>Marcum, Martha A., Michael A. Powell, A. J. Muensch, Helen F. Arnold, and Robert Powell. 2008 “Social behaviour of the dwarf gecko <i>Sphaerodactylus vincenti vincenti</i> on St. Vincent, Lesser Antilles.” <i>Salamandra</i>, 44:15-22. </p>
+<p>Marcum, Martha A., Michael A. Powell, A. J. Muensch, Helen F. Arnold, and Robert Powell. 2008. “Social behaviour of the dwarf gecko <i>Sphaerodactylus vincenti vincenti</i> on St. Vincent, Lesser Antilles.” <i>Salamandra</i>, 44:15-22. </p>
 
 </div>
 
@@ -44,8 +44,24 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Anstett, Robert, & Jacob Authement. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022a">Comparing and Contrasting the U.S. and Missouri Constitutions</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
+<p>Powell, Michael A. 2023. “Conservation Easements: For Biodiversity and Happy Clients.” <i>Natural Resources and Environment</i> 38(2): 24-28. </p>
 
-<p>Anstett, Robert, & Jacob Authement. 2022. <a href="https://www.jacobauthement.com/publication/AnstettAuthement2022b">Comparing and Contrasting Political Institutions of the State of Missouri, the United States, and Other States</a> in <u>Readings in American Politics, 3rd ed.</u> edited by James W. Endersby. W.W. Norton & Company. </p>
+<p>Powell, Michael A. 2017. “Conservation Represents the Best Tool for Rebuilding Rural Trust in Progressive Causes.” American Constitution Society Blog, August 10, 2017. <i>No longer online.</i> </p>
+
+<p>Powell, Michael A. 2012. “Walking the Tightrope: Balancing Conservation, Local Growth, and the Uncertainty of Rural Development.” Online at BePress. </p>
+
+<p>Powell, Michael A. and Robert Powell. 2011. “Aquatic Turtles Feasting on Periodical Cicadas.” <i>Missouri Herpetological Association Newsletter</i>, 24:21. </p>
+
+<p>Powell, Michael A. 2009. “Rural Innovation.” White Paper, Rural Policy Research Institute, University of Missouri. </p>
+
+<p>Powell, Michael A. 2009. “Characteristics of Healthy Communities: A Literature Review.” White Paper, Rural Policy Research Institute, University of Missouri. </p>
+
+<p>Konisky, David and Michael A. Powell. 2009. “Public Attitudes on State Election Administration, Goals, and Reforms.” Report 05–2009. Policy Note, Institute of Public Policy, University of Missouri. Online at ResearchGate. </p>
+
+<p>Powell, Michael A., Robert Powell, and Robert W. Henderson. 2006. “<i>Anolis sabanus</i>.” <i>Catalogue of American Amphibians and Reptiles</i>, (815): 1–5.</p>
+
+<p>Powell, Michael A. 2005. “A Yucatecan adventure.” <i>Iguana</i>, 12: 120-122.</p>
+
+<p>Powell, Michael A. 2005. “Mayan reptiles.” <i>Iguana</i>, 12: 112-114.</p>
 
 </div>
