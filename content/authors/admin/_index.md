@@ -14,7 +14,7 @@ organizations:
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include public policy, comparative politics, and environmental politics and policy.
+bio: My research interests include public policy, comparative politics, and environmental policy.
 
 # Interests to show in About widget
 interests:
