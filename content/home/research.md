@@ -26,8 +26,11 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Powell, Michael A., Sarah Brown, Robin Rotman, Sonja Wilhelm Stanis. 2024. “Supplement
+<p>Brown, Sarah, Robin Rotman, Michael A. Powell, Sonja Wilhelm Stanis. 2023. “Supplement
 to Easements, Not Replacement, is the Appropriate Role of Lease Agreements.” <i>Wildlife Society Bulletin</i>, 6(1). <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1508</a> </p>
+
+<p>Powell, Michael A., Sarah Brown, Robin Rotman, Sonja Wilhelm Stanis. 2024. “Conservation
+Easements: A Tool for Preserving Wildlife Habitat on Private Lands.” <i>Wildlife Society Bulletin</i>, 6(1). <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1415</a> </p>
 
 </div>
 
