@@ -50,8 +50,8 @@ social:
   icon_pack: fab
   link: https://twitter.com/MPowellPolicy
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-   icon_pack: fas
-   link: https://scholar.google.com/citations?user=Wl-gE8MAAAAJ
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=Wl-gE8MAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/MPowellPolicy
