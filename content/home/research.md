@@ -26,7 +26,7 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Powell, Michael A., Sarah Brown, Robin Rotman, Sonja Wilhelm Stanis. 2024. “Supplement to Easements, Not Replacement, is the Appropriate Role of Lease Agreements.” <i>Wildlife Society Bulletin</i>. <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1508</a> </p>
+<p>Powell, Michael A., Sarah Brown, Robin Rotman, Sonja Wilhelm Stanis. 2024. “{{< staticref "Powell_et_al_2024.pdf" "newtab" >}}Supplement to Easements, Not Replacement, is the Appropriate Role of Lease Agreements.{{< /staticref >}}” <i>Wildlife Society Bulletin</i>. <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1508</a> </p>
 
 <p>Brown, Sarah, Robin Rotman, Michael A. Powell, Sonja Wilhelm Stanis. 2023. “Conservation Easements: A Tool for Preserving Wildlife Habitat on Private Lands.” <i>Wildlife Society Bulletin</i>. <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1415</a> </p>
 
