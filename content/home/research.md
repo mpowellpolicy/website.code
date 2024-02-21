@@ -28,7 +28,7 @@ weight = 20
 
 <p>Powell, Michael A., Sarah Brown, Robin Rotman, Sonja Wilhelm Stanis. 2024. “{{< staticref "Powell_et_al_2024.pdf" "newtab" >}}Supplement to Easements, Not Replacement, is the Appropriate Role of Lease Agreements.{{< /staticref >}}” <i>Wildlife Society Bulletin</i>. <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1508</a> </p>
 
-<p>Brown, Sarah, Robin Rotman, Michael A. Powell, Sonja Wilhelm Stanis. 2023. “Conservation Easements: A Tool for Preserving Wildlife Habitat on Private Lands.” <i>Wildlife Society Bulletin</i>. <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1415</a> </p>
+<p>Brown, Sarah, Robin Rotman, Michael A. Powell, Sonja Wilhelm Stanis. 2023. “{{< staticref "Brown_et_al_2023.pdf" "newtab" >}}Conservation Easements: A Tool for Preserving Wildlife Habitat on Private Lands.{{< /staticref >}}” <i>Wildlife Society Bulletin</i>. <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1415</a> </p>
 
 <p>Powell, Michael A. 2012. “Environmental Law Update: Dep’t of Env. Serv., City and Cty. of Honolulu v. Land Use Commission, State of Hawai’i.” <i>Journal of Environmental and Sustainability Law</i>, 19(268). </p>
 
@@ -56,7 +56,7 @@ weight = 20
 
 <p>Powell, Michael A. 2009. “Characteristics of Healthy Communities: A Literature Review.” White Paper, Rural Policy Research Institute, University of Missouri. </p>
 
-<p>Konisky, David and Michael A. Powell. 2009. “Public Attitudes on State Election Administration, Goals, and Reforms.” Report 05–2009. Policy Note, Institute of Public Policy, University of Missouri. <a href="https://www.researchgate.net/publication/279636775_Public_Attitudes_on_State_Election_Administration_Goals_and_Reforms">Online at ResearchGate.</a> </p>
+<p>Konisky, David and Michael A. Powell. 2009. “{{< staticref "Konisky_and_Powell_2009.pdf" "newtab" >}}Public Attitudes on State Election Administration, Goals, and Reforms.{{< /staticref >}}” Report 05–2009. Policy Note, Institute of Public Policy, University of Missouri. <a href="https://www.researchgate.net/publication/279636775_Public_Attitudes_on_State_Election_Administration_Goals_and_Reforms">Online at ResearchGate.</a> </p>
 
 <p>Powell, Michael A., Robert Powell, and Robert W. Henderson. 2006. “<i>Anolis sabanus</i>.” <i>Catalogue of American Amphibians and Reptiles</i>, (815): 1–5.</p>
 
