@@ -6,7 +6,7 @@ title: Michael A. Powell
 superuser: true
 
 # Role/position/tagline
-role: Political Science PhD Student
+role: Political Science PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,7 +73,7 @@ social:
 highlight_name: false
 ---
 
-I am a PhD student in Political Science at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri.  I currently possess a B.A. in Political Science, with a minor in biology from Truman State University, as well as a Master’s in Public Affairs and a Juris Doctor from the University of Missouri.  Between my graduation from law school and my return to academia, I was a nonprofit executive and attorney working in the conservation land trust sector for nearly a decade, protecting vital natural resources using conservation easements and fee title acquisition, and serving as a leader for the land trust community at both the state and national levels.
+I am a PhD candidate in Political Science at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri.  I currently possess a B.A. in Political Science, with a minor in biology from Truman State University, as well as a Master’s in Public Affairs and a Juris Doctor from the University of Missouri.  Between my graduation from law school and my return to academia, I was a nonprofit executive and attorney working in the conservation land trust sector for nearly a decade, protecting vital natural resources using conservation easements and fee title acquisition, and serving as a leader for the land trust community at both the state and national levels.
 
 After nearly a decade as a conservation professional, I returned to the University of Missouri to pursue studies in comparative environmental policy at the Truman School of Government and Public Affairs.  I am interested in the intersections between humans, ecology, and land use, as well as comparative political study more broadly, with a focus on democracy and the unintended consequences of policy action.
 
