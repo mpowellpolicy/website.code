@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Political Science
     institution: University of Missouri
-    year: 2027 (expected)
+    year: 2026 (expected)
   - course: Juris Doctor
     institution: University of Missouri
     year: 2013
