@@ -79,4 +79,4 @@ After nearly a decade as a conservation professional, I returned to the Universi
 
 You can download a copy of my Curriculum Vitae {{< staticref "Powell_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-I was born and raised in the state of Missouri, but have lived in Vermont and Ohio, and have close ties to Germany through my father’s family.  I am fluent in English and conversational in German.  When not engaged in academic pursuits, I can often be found enjoying punk and folk music from across the world, reading voraciously, and spending time outdoors with my wife and dog.
+I was born and raised in the state of Missouri, but have lived in Vermont and Ohio, and have close personal and professional ties to Germany.  I am fluent in English and conversational in German (CEFR B1).  When not engaged in academic pursuits, I can often be found enjoying punk and folk music from across the world, reading voraciously, and spending time outdoors with my wife and dog.
