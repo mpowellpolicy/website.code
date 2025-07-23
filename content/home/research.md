@@ -36,7 +36,23 @@ weight = 20
 
 <p>Powell, Michael A. 2011. “Environmental Law Update: Florida Wildlife Federation, Inc. v. South Florida Water Mgmt. Dist.” <i>Journal of Environmental and Sustainability Law</i>, 18(606). </p>
 
-<p>Marcum, Martha A., Michael A. Powell, A. J. Muensch, Helen F. Arnold, and Robert Powell. 2008. “Social behaviour of the dwarf gecko <i>Sphaerodactylus vincenti vincenti</i> on St. Vincent, Lesser Antilles.” <i>Salamandra</i>, 44:15-22. </p>
+</div>
+
+<h2>Works in Progress</h2>
+
+<div style="padding-left: 4em; text-indent: -4em;">
+
+<p>Powell, Michael A., David Switzer, Manny Teodoro, and O. Therese Teodoro. "Racial, Ethnic, and Socioeconomic Correlates of PFAS Contamination in U.S. Drinking Water.” Article, <i>AWWA Water Science</i>. Revise and Resubmit.</p>
+
+<p>Powell, Michael A., David Switzer, and Manny Teodoro. "Disaggregating Disparities: Divergent Contamination in a Diverse Country.” Book Chapter, <i>Safe Drinking Water Act: The Next Fifty Years</i>. Under Contract.</p>
+
+<p>Barnes, Jesse and Michael A. Powell. “Does Political Decoupling Through Fair Market Privatization Improve Managerial and Political Outcomes? Insights from Water Utility Sales.” </p>
+
+<p>Powell, Michael A. and Steven Jokinsky. “\A Place of Their Own: Policy Feedback, Far-Right Support, and Reunication in the Former East Germany.” </p>
+
+<p>Switzer, David, Michael A. Powell, and Nicole Angeli. “Testing the Eects of Nativist Framing of Introduced Species on Public Opinion.” </p>
+
+<p>Switzer, David, Michael A. Powell, and Nicole Angeli. “Angeli.\Issue Framing and Support for Species Translocations: The Eect of Nativist and Climate Frames.” </p>
 
 </div>
 
@@ -57,6 +73,8 @@ weight = 20
 <p>Powell, Michael A. 2009. “Characteristics of Healthy Communities: A Literature Review.” White Paper, Rural Policy Research Institute, University of Missouri. </p>
 
 <p>Konisky, David and Michael A. Powell. 2009. “{{< staticref "Konisky_and_Powell_2009.pdf" "newtab" >}}Public Attitudes on State Election Administration, Goals, and Reforms.{{< /staticref >}}” Report 05–2009. Policy Note, Institute of Public Policy, University of Missouri. <a href="https://www.researchgate.net/publication/279636775_Public_Attitudes_on_State_Election_Administration_Goals_and_Reforms">Online at ResearchGate.</a> </p>
+
+<p>Marcum, Martha A., Michael A. Powell, A. J. Muensch, Helen F. Arnold, and Robert Powell. 2008. “Social behaviour of the dwarf gecko <i>Sphaerodactylus vincenti vincenti</i> on St. Vincent, Lesser Antilles.” <i>Salamandra</i>, 44:15-22. </p>
 
 <p>Powell, Michael A., Robert Powell, and Robert W. Henderson. 2006. “<i>Anolis sabanus</i>.” <i>Catalogue of American Amphibians and Reptiles</i>, (815): 1–5.</p>
 
