@@ -50,9 +50,9 @@ weight = 20
 
 <p>Powell, Michael A. and Steven Jokinsky. “A Place of Their Own: Policy Feedback, Far-Right Support, and Reunication in the Former East Germany.” </p>
 
-<p>Switzer, David, Michael A. Powell, and Nicole Angeli. “Testing the Eects of Nativist Framing of Introduced Species on Public Opinion.” </p>
+<p>Switzer, David, Michael A. Powell, and Nicole Angeli. “Testing the Effects of Nativist Framing of Introduced Species on Public Opinion.” </p>
 
-<p>Switzer, David, Michael A. Powell, and Nicole Angeli. “Angeli.\Issue Framing and Support for Species Translocations: The Eect of Nativist and Climate Frames.” </p>
+<p>Switzer, David, Michael A. Powell, and Nicole Angeli. “Issue Framing and Support for Species Translocations: The Effect of Nativist and Climate Frames.” </p>
 
 </div>
 
