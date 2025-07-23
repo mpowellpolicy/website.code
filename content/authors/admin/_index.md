@@ -28,9 +28,24 @@ education:
   - course: PhD in Political Science
     institution: University of Missouri
     year: 2026 (expected)
+  - course: Participant, Empirical Implications of Theoretical Models Institute
+    institution: University of Mannheim
+    year: 2025
+  - course: Participant, Inter-University Consortium for Political and Social Research
+    institution: University of Michigan
+    year:2024
+  - course: Graduate Certificate, Fundraising
+    institution: Avila University
+    year: 2018
   - course: Juris Doctor
     institution: University of Missouri
     year: 2013
+  - course: Graduate Certificate, Dispute Resolution
+    institution: University of Missouri
+    year: 2013
+  - course: Participant, Summer Session
+    institution: Vermont Law School
+    year: 2012
   - course: Master's in Public Affairs
     institution: University of Missouri
     year: 2011
@@ -45,10 +60,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:m.a.powell@mail.missouri.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/MPowellPolicy
+  link: 'mailto:m.a.powell@missouri.edu'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/MPowellPolicy
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=Wl-gE8MAAAAJ
