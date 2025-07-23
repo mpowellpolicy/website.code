@@ -33,7 +33,7 @@ education:
     year: 2025
   - course: Participant, Inter-University Consortium for Political and Social Research
     institution: University of Michigan
-    year:2024
+    year: 2024
   - course: Graduate Certificate, Fundraising
     institution: Avila University
     year: 2018
