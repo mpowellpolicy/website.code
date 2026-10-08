@@ -21,10 +21,10 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 address:
-  street: Locust Street Building, 615 Locust St.
-  city: Columbia
-  region: MO
-  postcode: '65201'
+  street: 1225 Observatory Drive
+  city: Madison
+  region: WI
+  postcode: '53706'
   country: United States
   country_code: US
 #coordinates:
@@ -35,7 +35,7 @@ address:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-email: m.a.powell@missouri.edu
+email: michael.powell@wisc.edu
 # phone: 888 888 88 88
 contact_links:
 #  - icon: twitter
