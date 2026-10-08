@@ -26,9 +26,9 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
-<p>Powell, Michael A., David Switzer, and Manuel P. Teodoro. 2026. “Drinking Water and Environmental
-Justice: Divergent Contamination in a Diverse Country.” In <i>Safe Drinking Water Act:
-The Next Fifty Years</i>, ed. Manuel P. Teodoro. Palgrave Macmillan: Cham, Switzerland, 215–36. <a href="https://doi.org/10.1007/978-3-032-10830-2 11">https://doi.org/10.1002/10.1007/978-3-032-10830-2 11.</a> </p>
+<p>Barnes, Jesse, and Michael A. Powell. 2026. “{{< staticref "Barnes_and_Powell_2026.pdf" "newtab" >}}Does Political Decoupling Through Fair Market Privatization Improve Managerial and Political Outcomes? Insights from Water Utility Sales.{{< /staticref >}}” <i>Public Administration Review</i>. <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1111/puar.70174</a> </p>
+  
+<p>Powell, Michael A., David Switzer, and Manuel P. Teodoro. 2026. “Drinking Water and Environmental Justice: Divergent Contamination in a Diverse Country.” In <i>Safe Drinking Water Act: The Next Fifty Years</i>, ed. Manuel P. Teodoro. <a href="https://doi.org/10.1007/978-3-032-10830-2 11">https://doi.org/10.1002/10.1007/978-3-032-10830-2 11.</a> </p>
 
 <p>Powell, Michael A., Sarah Brown, Robin Rotman, Sonja Wilhelm Stanis. 2024. “{{< staticref "Powell_et_al_2024.pdf" "newtab" >}}Supplement to Easements, Not Replacement, is the Appropriate Role of Lease Agreements.{{< /staticref >}}” <i>Wildlife Society Bulletin</i>. <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1508</a> </p>
 
@@ -48,15 +48,21 @@ The Next Fifty Years</i>, ed. Manuel P. Teodoro. Palgrave Macmillan: Cham, Switz
 
 <p>Powell, Michael A., David Switzer, Manny Teodoro, and O. Therese Teodoro. "Racial, Ethnic, and Socioeconomic Correlates of PFAS Contamination in U.S. Drinking Water.” Article, <i>AWWA Water Science</i>. Revise and Resubmit.</p>
 
-<p>Powell, Michael A., David Switzer, and Manny Teodoro. "Disaggregating Disparities: Divergent Contamination in a Diverse Country.” Book Chapter, <i>Safe Drinking Water Act: The Next Fifty Years</i>. Under Contract.</p>
+<p>Powell, Michael A. “What Ties Bind, Again? Social Capital in Collaborative Watershed Governance.”</p>p>
 
-<p>Barnes, Jesse and Michael A. Powell. “Does Political Decoupling Through Fair Market Privatization Improve Managerial and Political Outcomes? Insights from Water Utility Sales.” </p>
+<p>Powell, Michael A. “The Source of the Flood: Trans-Boundary Resentments and Populist Far Right Politics in Europe.”</p>
 
-<p>Powell, Michael A. and Steven Jokinsky. “A Place of Their Own: Policy Feedback, Far-Right Support, and Reunication in the Former East Germany.” </p>
+<p>Powell, Michael A. “Poisoning the Well: Policy Feedback, Resentment, and Anti-Institutional Politics in Watershed Management.”</p>
+
+<p>Powell, Michael A., Jan Philipp Thomeczek, Anne K¨uppers, and Laurent Bernhard. “Examining the Effect of Party Cues on Participation in Sub-National Climate Referendums.”</p>
+
+<p>Powell, Michael A. and Steven Jokinsky. “Lost Places: Policy Feedback, Far-Right Support, and Reunication in the Former East Germany.” </p>
 
 <p>Switzer, David, Michael A. Powell, and Nicole Angeli. “Testing the Effects of Nativist Framing of Introduced Species on Public Opinion.” </p>
 
 <p>Switzer, David, Michael A. Powell, and Nicole Angeli. “Issue Framing and Support for Species Translocations: The Effect of Nativist and Climate Frames.” </p>
+
+<p>Powell, Michael A., Helen F. Arnold, Robert Powell, and John S. Parmerlee, Jr. “A Day in the Life of an Anole on St. Vincent.”</p>
 
 </div>
 
@@ -64,11 +70,9 @@ The Next Fifty Years</i>, ed. Manuel P. Teodoro. Palgrave Macmillan: Cham, Switz
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
+<p>Powell, Michael A., David Switzer, Manny Teodoro, and O. Therese Teodoro. 2025. “PFAS and the Future of Environmental Justice Regulation.” Natural Resources and Environment 40(2): 22-26.</p>
+
 <p>Powell, Michael A. 2023. “Conservation Easements: For Biodiversity and Happy Clients.” <i>Natural Resources and Environment</i> 38(2): 24-28. </p>
-
-<p>Powell, Michael A. 2017. “Conservation Represents the Best Tool for Rebuilding Rural Trust in Progressive Causes.” American Constitution Society Blog, August 10, 2017. <i>No longer online.</i> </p>
-
-<p>Powell, Michael A. 2012. “Walking the Tightrope: Balancing Conservation, Local Growth, and the Uncertainty of Rural Development.” Working Paper. <a href="https://works.bepress.com/michael_powell/1/">Online at BePress.</a> </p>
 
 <p>Powell, Michael A. and Robert Powell. 2011. “Aquatic Turtles Feasting on Periodical Cicadas.” <i>Missouri Herpetological Association Newsletter</i>, 24:21. </p>
 
