@@ -27,12 +27,12 @@ _Instructor of Record_
 
 _Lab Instructor_
 + Introduction to Political Research, Pol Sc 3000, Spring 2024 (Undergraduate)
-+ Computing Methods for Political Science, Pol Sc 4010/7010, Fall 2023 (Graduate and Undergraduate)
++ Computing Methods for Political Science, Pol Sc 4010/7010, Fall 2023 and 2024 (Graduate and Undergraduate)
 
 _Teaching Assistant_
 + Introduction to Computing for Data Analysis, Inter-University Consortium for Political and Social Research, University of Michigan, Summer 2024 (Graduate)
 + Introduction to the LaTeX Text Processing System, Inter-University Consortium for Political and Social Research, University of Michigan, Summer 2024 (Graduate)
 + Introduction to Political Research, Pol Sc 3000, Spring 2024 (Undergraduate)
-+ Introductory Statistics for Political Science, Pol Sc 4000/7000, Fall 2023 (Graduate and Undergraduate)
++ Introductory Statistics for Political Science, Pol Sc 4000/7000, Fall 2023 and 2024 (Graduate and Undergraduate)
 + American National Government, Pol Sc 1100, Spring 2023 (Undergraduate)
 + Constitutional Rights, Pol Sc 4210, Fall 2022 (Undergraduate)
