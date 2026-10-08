@@ -48,7 +48,7 @@ weight = 20
 
 <p>Powell, Michael A., David Switzer, Manny Teodoro, and O. Therese Teodoro. "Racial, Ethnic, and Socioeconomic Correlates of PFAS Contamination in U.S. Drinking Water.” Article, <i>AWWA Water Science</i>. Revise and Resubmit.</p>
 
-<p>Powell, Michael A. “What Ties Bind, Again? Social Capital in Collaborative Watershed Governance.”</p>p>
+<p>Powell, Michael A. “What Ties Bind, Again? Social Capital in Collaborative Watershed Governance.”</p>
 
 <p>Powell, Michael A. “The Source of the Flood: Trans-Boundary Resentments and Populist Far Right Politics in Europe.”</p>
 
