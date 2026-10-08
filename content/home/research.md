@@ -26,6 +26,10 @@ weight = 20
 
 <div style="padding-left: 4em; text-indent: -4em;">
 
+<p>Powell, Michael A., David Switzer, and Manuel P. Teodoro. 2026. “Drinking Water and Environmental
+Justice: Divergent Contamination in a Diverse Country.” In <i>Safe Drinking Water Act:
+The Next Fifty Years</i>, ed. Manuel P. Teodoro. Palgrave Macmillan: Cham, Switzerland, 215–36. <a href="https://doi.org/10.1007/978-3-032-10830-2 11">https://doi.org/10.1002/10.1007/978-3-032-10830-2 11.</a> </p>
+
 <p>Powell, Michael A., Sarah Brown, Robin Rotman, Sonja Wilhelm Stanis. 2024. “{{< staticref "Powell_et_al_2024.pdf" "newtab" >}}Supplement to Easements, Not Replacement, is the Appropriate Role of Lease Agreements.{{< /staticref >}}” <i>Wildlife Society Bulletin</i>. <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1508</a> </p>
 
 <p>Brown, Sarah, Robin Rotman, Michael A. Powell, Sonja Wilhelm Stanis. 2023. “{{< staticref "Brown_et_al_2023.pdf" "newtab" >}}Conservation Easements: A Tool for Preserving Wildlife Habitat on Private Lands.{{< /staticref >}}” <i>Wildlife Society Bulletin</i>. <a href="https://doi.org/10.1002/wsb.1508">https://doi.org/10.1002/wsb.1415</a> </p>
