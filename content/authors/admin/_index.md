@@ -28,24 +28,9 @@ education:
   - course: PhD in Political Science
     institution: University of Missouri
     year: 2026
-  - course: Participant, Empirical Implications of Theoretical Models Institute
-    institution: University of Mannheim
-    year: 2025
-  - course: Participant, Inter-University Consortium for Political and Social Research
-    institution: University of Michigan
-    year: 2024
-  - course: Graduate Certificate, Fundraising
-    institution: Avila University
-    year: 2018
   - course: Juris Doctor
     institution: University of Missouri
     year: 2013
-  - course: Graduate Certificate, Dispute Resolution
-    institution: University of Missouri
-    year: 2013
-  - course: Participant, Summer Session
-    institution: Vermont Law School
-    year: 2012
   - course: Master's in Public Affairs
     institution: University of Missouri
     year: 2011
