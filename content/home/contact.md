@@ -38,5 +38,5 @@ design:
 </style>
 
 <div class="google-maps">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3102.8723295350364!2d-92.33226038484517!3d38.9497449514623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87dcb7c5c5978b3d%3A0xf7ac560c262ce7a9!2sLocust%20Street%20Bldg%2C%20Columbia%2C%20MO%2065201!5e0!3m2!1sen!2sus!4v1661967040459!5m2!1sen!2sus" width="600" height="450" style="border:0"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2914.3442819544707!2d-89.41018752279764!3d43.07625678955298!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8807acb7fd8382e5%3A0x2073dc77f552cd43!2sRobert%20M.%20La%20Follette%20School%20of%20Public%20Affairs!5e0!3m2!1sen!2sus!4v1791482593596!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
