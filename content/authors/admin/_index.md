@@ -6,28 +6,28 @@ title: Michael A. Powell
 superuser: true
 
 # Role/position/tagline
-role: Political Science PhD Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Missouri
+- name: La Follette School of Public Affairs, University of Wisconsin - Madison
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include public policy, comparative politics, and environmental policy.
+bio: My research interests include collective action and the intended and unintended consequences of environmental policy.
 
 # Interests to show in About widget
 interests:
+- Environmental Politics and Policy
 - Public Policy
 - Comparative Politics
-- Environmental Politics and Policy
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Political Science
     institution: University of Missouri
-    year: 2026 (expected)
+    year: 2026
   - course: Participant, Empirical Implications of Theoretical Models Institute
     institution: University of Mannheim
     year: 2025
@@ -60,7 +60,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:m.a.powell@missouri.edu'
+  link: 'mailto:michael.powell@wisc.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/MPowellPolicy
@@ -88,10 +88,10 @@ social:
 highlight_name: false
 ---
 
-I am a PhD candidate in Political Science at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri.  I currently possess a B.A. in Political Science, with a minor in biology from Truman State University, as well as a Master’s in Public Affairs and a Juris Doctor from the University of Missouri.  Between my graduation from law school and my return to academia, I was a nonprofit executive and attorney working in the conservation land trust sector for nearly a decade, protecting vital natural resources using conservation easements and fee title acquisition, and serving as a leader for the land trust community at both the state and national levels.
+I am an Assistant Professor of Environmental Policy at the [La Follette School of Public Affairs](https://lafollette.wisc.edu) at the University of Wisconsin - Madison.  I received my Ph.D. in Political Science from the Truman School of Public Affairs at the University of Missouri in 2026, and also possess a B.A. in Political Science, with a minor in biology from Truman State University, as well as a Master’s in Public Affairs and a Juris Doctor from the University of Missouri.  
 
-After nearly a decade as a conservation professional, I returned to the University of Missouri to pursue studies in comparative environmental policy at the Truman School of Government and Public Affairs.  I am interested in the intersections between humans, ecology, and land use, as well as comparative political study more broadly, with a focus on democracy and the unintended consequences of policy action.
+After nearly a decade as a conservation professional, I returned to academia to pursue studies in comparative environmental policy.  I am interested in collective action, the intersections between humans, ecology, and land use, as well as comparative political study more broadly, with a focus on democracy and the unintended consequences of policy action.
 
 You can download a copy of my Curriculum Vitae {{< staticref "Powell_CV.pdf" "newtab" >}}here{{< /staticref >}}.
 
-I was born and raised in the state of Missouri, but have lived in Vermont and Ohio, and have close personal and professional ties to Germany.  I am fluent in English and conversational in German (CEFR B1).  When not engaged in academic pursuits, I can often be found enjoying punk and folk music from across the world, reading voraciously, and spending time outdoors with my wife and dog.
+I am fluent in English and conversational in German (CEFR B1).  When not engaged in academic pursuits, I can often be found enjoying punk and folk music from across the world, reading voraciously, and spending time outdoors with my wife and dog.
